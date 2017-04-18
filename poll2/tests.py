@@ -1,5 +1,5 @@
 from django.test import TestCase
-
+from simpletcp.tcpserver import TCPServer
 
 # Create your tests here.
 class RegularTest(TestCase):
