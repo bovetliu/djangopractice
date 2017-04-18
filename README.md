@@ -1,7 +1,7 @@
 
 ### Prepare
 1. Clone the project;
-2. `./create-env.sh` if you don't have a `.venv` folder in the project;
+2. `./create-env-if-not-exist.sh`
 3. `source .venv/bin/activate` to enter the virtual env;
 4. `pip install -r requirements.txt` if you haven't done so;
 
